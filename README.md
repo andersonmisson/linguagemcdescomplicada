@@ -15,6 +15,7 @@ https://www.youtube-nocookie.com/embed/GiCt0Cwcp-U?list=PL8iN9FQ7_jt4DJbeQqv--jp
     <ul>
         <li type = "circle"> AULA 001 - ESTRUTURA</li>
         <li type = "circle"> AULA 002 - DECLARAÇÕES</li>
+        <li type = "circle"> AULA 003 - PRINTF</li>
     </ul>
     <br>
 </ul>
